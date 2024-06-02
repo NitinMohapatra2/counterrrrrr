@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+.counter-container {
+    text-align: center;
+}
+
+#counter {
+    font-size: 4rem;
+    color: #333;
+}
